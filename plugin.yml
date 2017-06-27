@@ -1,8 +1,8 @@
 name: mcg76_CTF
-version: 1.6.0
-api: 1.12.0
+version: 1.7.0
+api: 3.0.0-ALPHA6
 main: mcg76\game\ctf\CTFPlugIn
-author: minecraftgenius76
+author: [minecraftgenius76, Zeao]
 authors: [MCG76]
 description: minecraftgenius76 Minigame [Capture-The-Flag] 
 website: http://www.youtube.com/user/minecraftgenius76
